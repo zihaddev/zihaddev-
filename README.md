@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Zihad Hossain</h1>
-<h3 align="center">⚡ Web Developer | WordPress Specialist | Freelancer</h3>
+<h3 align="center">⚡ Web Developer | QC Manager @Exprovia | Learner </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&width=435&lines=WordPress+Developer;JavaScript+Enthusiast;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&width=435&lines=Web+Developer;JavaScript+Enthusiast;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Real Estate & Client WordPress Projects**
-- 🌱 Learning **JavaScript DOM Manipulation → MERN Stack**
-- 💼 Freelancing at **[pronizam.com](https://pronizam.com)**
+- 🔭 Currently working at Exprovia
+- 🌱 Learning MERN Stack Web development
 - 📍 Based in **Rajshahi, Bangladesh**
-- 💬 Ask me about **WordPress, Elementor, WooCommerce, PHP**
+- 💬 Ask me about ** JavaScript, WordPress, Elementor, WooCommerce, etc. **
 - 📫 Reach me at **mdzihad.web@gmail.com**
 
 ---
@@ -47,4 +46,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xihad-hossain)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/zihad.hossain.754338)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdzihad.web@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pronizam.com)
